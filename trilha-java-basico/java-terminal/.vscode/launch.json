@@ -24,16 +24,6 @@
             "mainClass": "MinhaClasse",
             "projectName": "java-terminal_21b42d74"
         }
-        {
-            "type": "java",
-            "request": "launch",
-            "mainClass": "AboutMe",
-            "args": [
-                "LEONAN",
-                "SANTOS",
-                "26",
-                "1.60",
-            ]
-        }
+        
     ]
 }
